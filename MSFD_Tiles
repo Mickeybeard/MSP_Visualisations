@@ -1,0 +1,20 @@
+import pandas as pd
+import plotly.express as px
+
+D1C1 = pd.read_csv (r'C:\Users\marrigan\Work\Jupyter_Notebooks\MSFD_Pie\data\D1_GES_Species2.csv')
+
+x = D1C1['Common_Name']
+y = ['GES','D1C5','D1C4','D1C2','D1C1']
+
+z = [D1C1['GES_Colour'],D1C1['D1C5_Colour'],D1C1['D1C4_Colour'],D1C1['D1C2_Colour'],D1C1['D1C1_Colour']]
+
+z_text = [D1C1['D1C1'],D1C1['D1C2'],D1C1['D1C4'],D1C1['D1C5'],D1C1['GES']]
+
+colorscale=[[0.0, '#ffffff'], [.1, '#F0A622'], [.3, '#f2f2f2'], [.5, '#e34732'],[1, '#31F08E']]
+
+fig = px.imshow(z, x=x, y=y, color_continuous_scale=colorscale, aspect='equal', title="D1C1 GES status by Species")
+fig.update_traces(text=z_text, texttemplate="%{text}")
+fig.update_coloraxes(showscale=False)
+fig.update_xaxes(side="bottom")
+fig.update_layout(hovermode='x unified')
+fig.show()
