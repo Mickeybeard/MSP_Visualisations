@@ -1,0 +1,9 @@
+
+				Original	Bolder		Bold		Purple/Blue	Medium		Funky		Funkier		Funkyiest	All_Colour
+GES achieved			#c5e0b3		#2ccb6f		#31F08E		#B0A6FF		#1BF03E		#66E062		#0CB8E0		#AA6EFF		#6CE0A7
+GES partially achieved		#f2ab6d		#fa6500		#F0A622		#ABE7F5		#E0A558		#E063A8		#E0700B		#E0DC4A		#A1FA8C
+GES not achieved		#e34732																#F5F0BA
+Unknown				#f2f2f2																#87E6FA
+No Target For GES Set		#7d7d7d																#7d7d7d
+Centre Circle			#1c1c1c																#97A8F0
+Centre Circle Text		#ffffff

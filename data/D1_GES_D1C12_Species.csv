@@ -1,0 +1,61 @@
+﻿Label,Index,Source,Target,Value
+GES Achieved,0,2,4,1
+GES Not Achieved,1,2,5,1
+GES Unknown,2,2,6,1
+"Endangered with extinction, ineligible for GES",3,2,7,1
+Alepocephalus bairdii Baird's smoothhead,4,2,8,1
+Alopias vulpinus Common thresher shark,5,2,9,1
+Alosa fallax Twaite  shad,6,2,10,1
+Anarhichas denticulatus Wolffish,7,2,11,1
+Anguilla anguilla European eel,8,2,12,1
+Antimora rostrata antimora,9,2,13,1
+Aphanopus carbo,10,2,14,1
+Apristurus spp. Deep sea catcharks,11,2,15,1
+Beryx spp. Alfonsino,12,2,16,1
+Cataetyx laticeps,13,2,17,1
+Centrophorus squamosus Leafscale gulper shark,14,2,18,1
+Centroscyllium fabricii Black dogfish,15,2,19,1
+Centroscymnus coelolepis Portuguese dogfish,16,2,20,1
+Centroselachus crepidater Longnose velvet dogfish,17,2,21,1
+Cetorhinus maximus Basking shark,18,2,22,1
+Chimaera spp. Rabbitfish,19,1,23,2
+Coryphaenoides rupestris Roundnose grenadier,20,2,24,1
+Dalatias licha Kitefin shark,21,2,25,1
+Deania calcea Birdbeak dogfish,22,2,26,1
+Dipturus batis Common skate complex ,23,2,27,1
+Dipturus nidarosiensis Norwegian skate,24,1,28,2
+Epigonus telescopus Bigeye,25,2,29,1
+Etmopterus princeps Deepwater lanternshark,26,2,30,1
+Etmopterus spinax Velvetbelly lanternshark,27,2,31,1
+Gadus morhua cod ,28,2,32,1
+Galeorhinus galeus Tope shark,29,2,33,1
+Galeus melastomus Blackmouth catshark,30,2,34,1
+Galeus murinus Mouse catshark,31,2,35,1
+Helicolenus dactylopterus Blackbelly rosefish,32,2,36,1
+Hexanchus griseus Six gill shark,33,1,37,2
+Hippoglossus hippoglossus Halibut,34,1,38,2
+Hoplostethus atlanticus Orange roughy,35,2,39,1
+Hydrolagus mirabilis Large eyed rabbitfish,36,2,40,1
+Isurus oxyrinchus Shortfin mako shark,37,0,41,4
+Lamna nasus Porbeagle shark,38,2,42,1
+Lampetra fluviatilis River lamprey,39,2,43,1
+Leucoraja circularis Sandy ray,40,2,44,1
+Molva dypterygia Blue ling,41,2,45,1
+Mora moro Mora,42,2,46,1
+Mustelus asterias Starry moothhound,43,2,47,1
+Notocanthus chemnitzii Snub nose spiny eel,44,2,48,1
+Oxynotus paradoxus Sailfin roughshark,45,2,49,1
+Petromyzon marinus Sea lamprey,46,2,50,1
+Raja clavata Thornback ray,47,2,51,1
+Raja montagui Spotted ray,48,2,52,1
+Raja undulata Undulate ray,49,2,53,1
+Rajella fyllae Deepwater ray,50,2,54,1
+Rhinochimaera atlantica Straightnose rabbitfish,51,2,55,1
+Rostroraja alba White skate,52,0,56,4
+Salmo salar Atlantic salmon,53,2,57,1
+Scophthalmus maximus Turbot,54,0,58,4
+Scymnodon ringens Knitefooth shark,55,2,59,1
+Squalus acanthias Spurdog,56,,,
+Squatina squatina Angel shark,57,,,
+Thunnus thynnus Bluefin tuna,58,,,
+Trachyscorpia cristulata Spiny scorpionfish,59,,,

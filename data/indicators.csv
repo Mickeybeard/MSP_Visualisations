@@ -1,0 +1,47 @@
+indicators_label,indicators_colour,indicators_weight
+Mortality RatexoxoIncidential By Catch,c_ges_pa,1
+Population Abundance,c_ges_pa,1
+Population DemographicxoxoCharacteristics,c_ges_pa,1
+Species DistributionalxoxoRange Extent,c_ges_pa,1
+Species Habitat Extent,c_ges_pa,1
+Pelagic HabitatxoxoCondition,c_ges_pa,1
+Newly IntroducedxoxoSpecies,c_ges_a,2
+MaximumxoxoSustainable Yield,c_ges_pa,1
+Spawning Stock Biomass,c_ges_pa,1
+ ,c_ges_nt,1
+Fish,c_ges_u,1
+Plankton,c_ges_u,1
+Nutrients Nitrogen,c_ges_a,1
+Nutrients Phosphorous,c_ges_a,1
+Chlorophyll-a,c_ges_a,1
+Dissolved Oxygen,c_ges_a,1
+Benthic HabitatxoxoPhysical Loss,c_ges_pa,1
+Benthic HabitatxoxoDisturbance,c_ges_pa,1
+ ,c_ges_nt,1
+Benthic HabitatxoxoPhysical Loss,c_ges_pa,1
+Benthic Habitat Extent,c_ges_pa,1
+HydromorphologicalxoxoQuality Index,c_ges_a,1
+Dredging,c_ges_a,1
+Benthic HabitatxoxoPhysical Loss,c_ges_a,1
+Benthic HabitatxoxoDisturbance,c_ges_a,1
+ContaminantsxoxoNon UPBT Substances,c_ges_a,1
+ContaminantsxoxoUPBT Substances,c_ges_a,1
+Biological Effects,c_ges_a,1
+SignificantxoxoAcute Pollution,c_ges_a,1
+ContaminantsxoxoNon UPBT Substances,c_ges_a,1
+ContaminantsxoxoUPBT Substances,c_ges_a,1
+Biological Effects,c_ges_a,1
+Significant AcutexoxoPollution,c_ges_a,1
+Lead in Fish and Seafood,c_ges_a,1
+Cadmium inxoxoFish and Seafood,c_ges_a,1
+Mercury inxoxoFish and Seafood,c_ges_a,1
+Benzo(a)pyreinxoxoFish and Seafood,c_ges_a,1
+Sum of four PAHs inxoxoFish and Seafood,c_ges_a,1
+Sum of ICES 6 PCBs inxoxoFish and Seafood,c_ges_a,1
+PCDD/Fs inxoxoFish and Seafood,c_ges_a,1
+PCDD/Fs+DL-PCBs inxoxoFish and Seafood,c_ges_a,1
+Beach Litter,c_ges_u,1
+Seabed Litter,c_ges_u,1
+ ,c_ges_nt,1
+Impulsive Noise,c_ges_u,1
+ ,c_ges_nt,1

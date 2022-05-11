@@ -1,0 +1,57 @@
+﻿descriptor,species,species_assessment,ges_assessment,weight
+D1C1,Alepocephalus bairdii Baird's smoothhead,ges_u,ges_na,1
+D1C1,Alopias vulpinus Common thresher shark,ges_u,ges_u,1
+D1C1,Alosa fallax Twaite  shad,ges_u,ges_na,1
+D1C1,Anarhichas denticulatus Wolffish,ges_u,ges_u,1
+D1C1,Anguilla anguilla European eel,ges_u,ges_na,1
+D1C1,Antimora rostrata antimora,ges_u,ges_na,1
+D1C1,Aphanopus carbo,ges_u,ges_u,1
+D1C1,Apristurus spp. Deep sea catcharks,ges_u,ges_u,1
+D1C1,Beryx spp. Alfonsino,ges_u,ges_u,1
+D1C1,Cataetyx laticeps,ges_u,ges_u,1
+D1C1,Centrophorus squamosus Leafscale gulper shark,ges_u,ges_na,1
+D1C1,Centroscyllium fabricii Black dogfish,ges_u,ges_a,1
+D1C1,Centroscymnus coelolepis Portuguese dogfish,ges_u,ges_na,1
+D1C1,Centroselachus crepidater Longnose velvet dogfish,ges_u,ges_a,1
+D1C1,Cetorhinus maximus Basking shark,ges_u,ges_na,1
+D1C1,Chimaera spp. Rabbitfish,ges_u,ges_a,1
+D1C1,Coryphaenoides rupestris Roundnose grenadier,ges_u,ges_u,1
+D1C1,Dalatias licha Kitefin shark,ges_u,ges_na,1
+D1C1,Deania calcea Birdbeak dogfish,ges_u,ges_a,1
+D1C1,Dipturus batis Common skate complex ,ges_na,"Endangered with extinction, ineligible for GES",1
+D1C1,Dipturus nidarosiensis Norwegian skate,ges_u,ges_u,1
+D1C1,Epigonus telescopus Bigeye,ges_u,ges_a,1
+D1C1,Etmopterus princeps Deepwater lanternshark,ges_u,ges_a,1
+D1C1,Etmopterus spinax Velvetbelly lanternshark,ges_u,ges_a,1
+D1C1,Gadus morhua cod ,ges_na,ges_na,1
+D1C1,Galeorhinus galeus Tope shark,ges_u,ges_u,1
+D1C1,Galeus melastomus Blackmouth catshark,ges_u,ges_a,1
+D1C1,Galeus murinus Mouse catshark,ges_u,ges_u,1
+D1C1,Helicolenus dactylopterus Blackbelly rosefish,ges_u,ges_na,1
+D1C1,Hexanchus griseus Six gill shark,ges_u,ges_na,1
+D1C1,Hippoglossus hippoglossus Halibut,ges_u,ges_u,1
+D1C1,Hoplostethus atlanticus Orange roughy,ges_u,ges_na,1
+D1C1,Hydrolagus mirabilis Large eyed rabbitfish,ges_u,ges_na,1
+D1C1,Isurus oxyrinchus Shortfin mako shark,ges_na,ges_na,1
+D1C1,Lamna nasus Porbeagle shark,ges_na,"Endangered with extinction, ineligible for GES",1
+D1C1,Lampetra fluviatilis River lamprey,ges_u,ges_a,1
+D1C1,Leucoraja circularis Sandy ray,ges_u,ges_u,1
+D1C1,Molva dypterygia Blue ling,ges_a,ges_a,1
+D1C1,Mora moro Mora,ges_u,ges_a,1
+D1C1,Mustelus asterias Starry moothhound,ges_u,ges_u,1
+D1C1,Notocanthus chemnitzii Snub nose spiny eel,ges_u,ges_u,1
+D1C1,Oxynotus paradoxus Sailfin roughshark,ges_u,ges_u,1
+D1C1,Petromyzon marinus Sea lamprey,ges_u,ges_na,1
+D1C1,Raja clavata Thornback ray,ges_u,ges_u,1
+D1C1,Raja montagui Spotted ray,ges_u,ges_u,1
+D1C1,Raja undulata Undulate ray,ges_u,ges_na,1
+D1C1,Rajella fyllae Deepwater ray,ges_u,ges_u,1
+D1C1,Rhinochimaera atlantica Straightnose rabbitfish,ges_u,ges_u,1
+D1C1,Rostroraja alba White skate,ges_u,"Endangered with extinction, ineligible for GES",1
+D1C1,Salmo salar Atlantic salmon,ges_u,ges_na,1
+D1C1,Scophthalmus maximus Turbot,ges_u,ges_a,1
+D1C1,Scymnodon ringens Knitefooth shark,ges_u,ges_u,1
+D1C1,Squalus acanthias Spurdog,ges_a,ges_na,1
+D1C1,Squatina squatina Angel shark,ges_u,"Endangered with extinction, ineligible for GES",1
+D1C1,Thunnus thynnus Bluefin tuna,ges_a,ges_u,1
+D1C1,Trachyscorpia cristulata Spiny scorpionfish,ges_u,ges_u,1

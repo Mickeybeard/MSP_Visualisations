@@ -1,0 +1,30 @@
+﻿code_label,description_label,code_colour,code_weight
+D1C1,Incidental Bycatch,c_ges_pa,1
+D1C2,Population Density/Size,c_ges_pa,1
+D1C3,Demographic Characteristics,c_ges_pa,1
+D1C4,Distribution,c_ges_pa,1
+D1C5,Habitat,c_ges_pa,1
+D1C6,Pelagic Habitats,c_ges_pa,1
+D2C1,Introductions of non-indigenous species,c_ges_a,2
+D3C1,Commercially exploited fish: death,c_ges_pa,1
+D3C2,Commercially exploited fish: spawning stock biomass,c_ges_pa,1
+D3C3,Commercially exploited fish: distribution of age/size,c_ges_pa,1
+D4C1,Trophic guilds: species composition/density,c_ges_u,1
+D4C2,Trophic guilds: balance between guilds,c_ges_u,1
+D5C1,Nutrients,c_ges_a,2
+D5C2,Chlorophyll a,c_ges_a,1
+D5C5,Dissolved Oxygen,c_ges_a,1
+D6C1,Seabed: physical loss,c_ges_pa,1
+D6C2,Seabed: physical disturbance,c_ges_pa,1
+D6C3,Benthic habitat types: effects of disturbance,c_ges_pa,1
+D6C4,Benthic habitat types: extent of loss,c_ges_pa,1
+D6C5,Benthic habitat types: harmful effects,c_ges_pa,1
+D7C1,Hydrographic changes to seabed and water column,c_ges_a,4
+D8C1,"Contaminants: water, sediment, biota",c_ges_a,2
+D8C2,"Contaminants: Health of Species, habitats",c_ges_a,1
+D8C3,Contaminants: Acute Pollution Events,c_ges_a,1
+D9C1,Contamination of edible tissue in fish and shellfish,c_ges_a,12
+D10C1,"Litter: coast, surface layer of the water column, seabed",c_ges_u,2
+D10C2,Litter: micro litter,c_ges_u,1
+D11C1,Input of energy: impulsive noise,c_ges_u,1
+D11C2,Input of energy: continuous noise,c_ges_u,1
